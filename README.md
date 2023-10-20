@@ -14,17 +14,17 @@ Russian (native), English (B2), French (B1).
 
 | Name | Description | Tools |
 | --- | --- | --- |
-| [s21_SmartCalc_v.1](https://github.com/Enevales/s21_SmartCalc_v.1) | An extended version of the usual calculator | C11, QT gui, C++17, CMAKE, Check unit-tests |
-| [s21_3d_viewer](https://github.com/Enevales/s21_3d_viewer) | A program to view 3D wireframe models (3D Viewer) | C11, OpenGL, QT gui, C++17, GNU Make, Check unit-tests|
-| [s21_BashUtils](https://github.com/Enevales/s21_BashUtils) | Implementation of two bash utilities: Cat and Grep | C11, GNU Make, Bash |
-| [s21_Mathlib](https://github.com/Enevales/s21_mathlib) | Own version of the standard math.h library | C11, GNU Make, Check unit-tests |
-| [s21_Decimal](https://github.com/Enevales/s21_Decimal) | A library to work with decimal type (similiar to C# one)| C11, GNU Make, Check unit-tests |
-| [s21_Matrices](https://github.com/Enevales/s21_Matrices) | A library that allows you to work with matrices in C | C11, GNU Make, Check unit-tests |
-| [s21_Matrices_oop](https://github.com/Enevales/s21_Matrices_oop) | A library that allows you to work with matrices in C++ | C++17, GNU Make, Gtest |
-| [s21_Linux](https://github.com/Enevales/s21_Linux) | The basics of Linux administration and the process of virtualization | Linux, VM, fdisk, df, du, ncd utilities and vim |
-| [s21_Linux_networking](https://github.com/Enevales/s21_Linux_networking) | Linux networks configuration on virtual machines | Linux, VM, ipcalc, iperf3, netplan |
-| [s21_Linux_Monitoring](https://github.com/Enevales/s21_Linux_Monitoring) | Linux basic bash scripting and system research | Linux, Bash, AWK |
-| [s21_Docker](https://github.com/Enevales/s21_Docker) | Developing a simple docker image for own server | Docker, dockle, FastCgi, nginx, docker-compose|
+| [SmartCalc_v.1](https://github.com/Enevales/SmartCalc_v.1) | An extended version of the usual calculator | C11, QT gui, C++17, CMAKE, Check unit-tests |
+| [3d_viewer](https://github.com/Enevales/s21_3d_viewer) | A program to view 3D wireframe models (3D Viewer) | C11, OpenGL, QT gui, C++17, GNU Make, Check unit-tests|
+| [BashUtils](https://github.com/Enevales/s21_BashUtils) | Implementation of two bash utilities: Cat and Grep | C11, GNU Make, Bash |
+| [Mathlib](https://github.com/Enevales/s21_mathlib) | Own version of the standard math.h library | C11, GNU Make, Check unit-tests |
+| [Decimal](https://github.com/Enevales/s21_Decimal) | A library to work with decimal type (similiar to C# one)| C11, GNU Make, Check unit-tests |
+| [Matrices](https://github.com/Enevales/s21_Matrices) | A library that allows you to work with matrices in C | C11, GNU Make, Check unit-tests |
+| [Matrices_oop](https://github.com/Enevales/s21_Matrices_oop) | A library that allows you to work with matrices in C++ | C++17, GNU Make, Gtest |
+| [Linux](https://github.com/Enevales/s21_Linux) | The basics of Linux administration and the process of virtualization | Linux, VM, fdisk, df, du, ncd utilities and vim |
+| [Linux_networking](https://github.com/Enevales/s21_Linux_networking) | Linux networks configuration on virtual machines | Linux, VM, ipcalc, iperf3, netplan |
+| [Linux_Monitoring](https://github.com/Enevales/s21_Linux_Monitoring) | Linux basic bash scripting and system research | Linux, Bash, AWK |
+| [Docker](https://github.com/Enevales/s21_Docker) | Developing a simple docker image for own server | Docker, dockle, FastCgi, nginx, docker-compose|
 
 
 <!-- ### :dart: My goals:
